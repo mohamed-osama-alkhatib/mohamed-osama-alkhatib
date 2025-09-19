@@ -8,9 +8,6 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
 
 </details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohamed-osama-alkhatib\&style=flat\&color=orange\&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmohamed-osama-alkhatib\&count_bg=%2379C83D\&title_bg=%23555555\&icon=mediafire.svg\&icon_color=%23E7E7E7\&title=HITS\&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/Mohamed--Osama--AlKhatib-grey?style=flat\&logo=telegram)](https://t.me/mohamedosamaalkhatib)
 
 </div>
@@ -94,20 +91,7 @@ class About extends Me {
 ---
 
 <div align="center">
-<a href="https://github.com/mohamed-osama-alkhatib">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
-</details>
+<a href="https://github.com/mohamed-osama-alkhatib"></a>
 
 <hr />
 
