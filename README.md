@@ -1,4 +1,4 @@
-# Mohamed Osama Alkhatib - AI Engineer & Front-End Developer
+# Mohamed Osama Al-Khatib - AI Engineer & Front-End Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hello+World!;AI+Engineer;Front-End+Developer;Tech+Enthusiast" alt="Typing Animation" />
@@ -45,14 +45,13 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-osama-alkhatib&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-osama-alkhatib&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </div>
 
 ## 🎓 Education & Background
 
 - 🎓 **Computer Engineering** graduate specializing in **Artificial Intelligence**
 - 🌍 **Languages**: Arabic (Native), English (B2)
-- 📚 Currently enhancing skills in **AI**
+- 📚 Currently enhancing skills in **Artificial intelligence**
 - 🎮 **Hobbies**: FIFA, Billiards, Basketball, Anime, Movies
 
 ## 📫 Connect With Me
