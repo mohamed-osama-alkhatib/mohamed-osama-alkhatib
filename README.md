@@ -52,7 +52,7 @@
 
 - 🎓 **Computer Engineering** graduate specializing in **Artificial Intelligence**
 - 🌍 **Languages**: Arabic (Native), English (B2)
-- 📚 Currently enhancing skills in **AI and Game Development**
+- 📚 Currently enhancing skills in **AI**
 - 🎮 **Hobbies**: FIFA, Billiards, Basketball, Anime, Movies
 
 ## 📫 Connect With Me
