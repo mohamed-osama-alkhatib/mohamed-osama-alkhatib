@@ -1,116 +1,81 @@
-<div align="center" width="50">
+# Mohamed Osama Alkhatib - AI Engineer & Front-End Developer
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
-
-<details>
-<p><strong> <summary>Busy coding & Vibing to:</summary></strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
-
-</details>
-[![telegram badge](https://img.shields.io/badge/Mohamed--Osama--AlKhatib-grey?style=flat\&logo=telegram)](https://t.me/mohamedosamaalkhatib)
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hello+World!;AI+Engineer;Front-End+Developer;Tech+Enthusiast" alt="Typing Animation" />
 </div>
 
-<hr />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-osama-alkhatib&style=flat-square&color=blue" alt="Profile views"/>
+  <a href="https://t.me/mohamedosamaalkhatib">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://x.com/mo_osama_kh">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-osama-al-khatib-397829374">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
-# Mohamed Osama Al‑Khatib
+## 🛠️ Technologies & Tools
 
-**Computer Engineer — AI specialization | Front‑end Developer**
+### Programming Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-* 📫 Email: [engineermohamedosamaalkhatib@gmail.com](mailto:engineermohamedosamaalkhatib@gmail.com)
-* 🌐 GitHub: [mohamed-osama-alkhatib](https://github.com/mohamed-osama-alkhatib)
-* ✉️ Telegram: [@mohamedosamaalkhatib](https://t.me/mohamedosamaalkhatib)
-* 🐦 X: [@mo\_osama\_kh](https://x.com/mo_osama_kh?t=Dud4QPXdb_VaNDj6TOerHw&s=35)
-* 🔗 LinkedIn: [Mohamed Osama Al‑Khatib](https://www.linkedin.com/in/mohamed-osama-al-khatib-397829374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
----
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat-square&logo=brain&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0081CB?style=flat-square&logo=ai&logoColor=white)
 
-![tools\_I\_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=%2361DAFB)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat\&logo=mui\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-4B5563?style=flat)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-```dart
-// tools_I_use organized
+## 📊 GitHub Stats
 
-class About extends Me {
-  const myTools = {
-    "ProgrammingLanguages" : { "HTML", "CSS", "JavaScript", "Python", "C++", "Java" },
-    "Frontend" : { "React.js", "MUI", "Bootstrap" },
-    "ML/AI" : { "Machine Learning", "Neural Networks" },
-    "Database" : { "SQLite", "Firebase (familiar)" },
-    "Editors" : { "VSCode", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows", "Mac" }
-  };
-}
-```
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-osama-alkhatib&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-osama-alkhatib&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</div>
 
-* 🔭 **Currently improving skills in:** Artificial Intelligence, Machine Learning, and building interactive front‑end UIs.
-* 🧾 **Education:** Recent graduate in Computer Engineering — AI specialization.
-* 🧠 **Interests:** Neural Networks, Computer Vision, Front‑end Development.
+## 🎓 Education & Background
 
----
+- 🎓 **Computer Engineering** graduate specializing in **Artificial Intelligence**
+- 🌍 **Languages**: Arabic (Native), English (B2)
+- 📚 Currently enhancing skills in **AI and Game Development**
+- 🎮 **Hobbies**: FIFA, Billiards, Basketball, Anime, Movies
 
-## Hobbies
+## 📫 Connect With Me
 
-* Favorite games: FIFA, Billiards, and Basketball.
-* Watching anime and movies.
-
----
-
-## Projects
-
-> There are no public projects yet. This section will be updated once you publish repositories on GitHub — I recommend starting with a small project (a To‑Do app or a simple ML classifier in Python) and adding a short README for each.
-
-**Quick starter project idea (1‑week):**
-
-* **Movie‑Recommender (Simple)** — React front‑end that displays movies and uses a simple content‑based or KNN recommender implemented in Python (Flask) for demoing ML integration.
-
----
-
-## Languages
-
-* Arabic — Native
-* English — B2
-
----
-
-## Fun fact
-
-* I enjoy exploring GNU/Linux distributions and trying new developer tools.
+<div align="center">
+  <a href="mailto:engineermohamedosamaalkhatib@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/mohamedosamaalkhatib">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://x.com/mo_osama_kh">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-osama-al-khatib-397829374">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
 <div align="center">
-<a href="https://github.com/mohamed-osama-alkhatib"></a>
-
-<hr />
-
-**Code Cycle**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="25px" alt="Smile">
+  <em>Thanks for visiting my profile! Let's connect and create something amazing together.</em>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="25px" alt="Smile">
 </div>
-
----
-
-**Next steps I can help with:**
-
-* Provide ready‑to‑use starter repos (React starter, ML starter) with code and README.
-* Generate a simple one‑page PDF CV from your data.
-* Translate or create a short English bio for LinkedIn.
-
-> Tell me which of the above you want and I’ll prepare it right away.
