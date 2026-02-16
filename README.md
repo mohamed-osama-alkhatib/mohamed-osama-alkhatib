@@ -65,22 +65,18 @@ In my free time, I enjoy playing FIFA, billiards, and basketball, as well as wat
 
 # 📊 GitHub Stats:
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <!-- Main GitHub stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=mohamed-osama-alkhatib&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="380"/>
-    </td>
-    <td align="center">
-      <!-- Top languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-osama-alkhatib&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="260"/>
-    </td>
-    <td align="center">
-      <!-- Streak -->
-      <img src="https://nirzak-streak-stats.vercel.app/?user=mohamed-osama-alkhatib&theme=transparent&hide_border=true" alt="GitHub Streak" width="220"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamed-osama-alkhatib&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=mohamed-osama-alkhatib&theme=github-dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamed-osama-alkhatib&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+
+
+
 
 ---
 
