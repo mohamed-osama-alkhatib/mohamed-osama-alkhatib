@@ -14,13 +14,13 @@ I am currently developing my skills in Artificial Intelligence and enjoy working
 
 In my free time, I enjoy playing FIFA, billiards, and basketball, as well as watching anime and movies.
 
-📧 Email: Engineermohamedosamaalkhatib@gmail.com
+📧 Email: mohamedosamaalkhatib@gmail.com
 
 
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-osama-al-khatib-397829374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn — Mohamed Osama">
+  <a href="https://www.linkedin.com/in/mohamed-osama-al-khatib-397829374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" title="LinkedIn — Mohamed Osama Al-Khatib">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/mo_osama_kh?t=Dud4QPXdb_VaNDj6TOerHw&s=35" title="X — @mo_osama_kh">
